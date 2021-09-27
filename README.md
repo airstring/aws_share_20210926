@@ -26,9 +26,8 @@ CloudFormation创建后的输出如下：
 ![image](https://user-images.githubusercontent.com/26688391/134872424-fcab53a0-c707-45bc-9585-f88a9719f332.png)
 ![image](https://user-images.githubusercontent.com/26688391/134872859-138d75f2-9101-43b2-b9a9-706ecf5fb475.png)
 ![image](https://user-images.githubusercontent.com/26688391/134873804-435cf407-c352-4156-926d-1f6c44066f03.png)
-上边选择缓存行为的时候没有private/*这个选择，只看到了*这个选择
+上边选择缓存行为的时候没有private/*这个选择，只看到了*这个选择，它与cloudfront的行为中的路径模式有关。这是因为选择的cloudfront的arn不对，选择正确的就好了
 
-部署到前
-![image](https://user-images.githubusercontent.com/26688391/134874275-dac1961b-cb7f-4c12-899d-8a9d153350c7.png)
+部署后
+![image](https://user-images.githubusercontent.com/26688391/134876092-5ab408d4-0f03-43ae-8201-8d7de1b02ec3.png)
 
-部署到后
