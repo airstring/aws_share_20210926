@@ -18,4 +18,12 @@ CloudFormation创建后的输出如下：
 ![image](https://user-images.githubusercontent.com/26688391/134868937-c26354dd-79ae-47e7-9487-a7da0020c5b4.png)
 ![image](https://user-images.githubusercontent.com/26688391/134870317-43b53ae1-5ad6-41c5-8d29-02828eef87e9.png)
 ![image](https://user-images.githubusercontent.com/26688391/134869848-4f8d5aee-bfe6-45ec-856f-01167a0d058e.png)
+![image](https://user-images.githubusercontent.com/26688391/134872424-fcab53a0-c707-45bc-9585-f88a9719f332.png)
+![image](https://user-images.githubusercontent.com/26688391/134872859-138d75f2-9101-43b2-b9a9-706ecf5fb475.png)
+![image](https://user-images.githubusercontent.com/26688391/134873804-435cf407-c352-4156-926d-1f6c44066f03.png)
+上边选择缓存行为的时候没有private/*这个选择，只看到了*这个选择
 
+部署到前
+![image](https://user-images.githubusercontent.com/26688391/134874275-dac1961b-cb7f-4c12-899d-8a9d153350c7.png)
+
+部署到后
