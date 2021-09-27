@@ -27,8 +27,16 @@ CloudFormation创建后的输出如下：
 ![image](https://user-images.githubusercontent.com/26688391/134872424-fcab53a0-c707-45bc-9585-f88a9719f332.png)
 ![image](https://user-images.githubusercontent.com/26688391/134872859-138d75f2-9101-43b2-b9a9-706ecf5fb475.png)
 ![image](https://user-images.githubusercontent.com/26688391/134873804-435cf407-c352-4156-926d-1f6c44066f03.png)
-上边选择缓存行为的时候没有private/*这个选择，只看到了*这个选择，它与cloudfront的行为中的路径模式有关。这是因为选择的cloudfront的arn不对，选择正确的就好了
+上边选择缓存行为的时候没有private/\* 这个选择，只看到了*这个选择，它与cloudfront的行为中的路径模式有关。这是因为选择的cloudfront的arn不对，选择正确的就好了
+![image](https://user-images.githubusercontent.com/26688391/134877092-2e700114-0efb-467d-9606-5826e6dd7faf.png)
 
 部署后
-![image](https://user-images.githubusercontent.com/26688391/134876092-5ab408d4-0f03-43ae-8201-8d7de1b02ec3.png)
+![image](https://user-images.githubusercontent.com/26688391/134877326-d7c7796c-eb5c-422d-87c0-d3b507cfdc63.png)
+
+
+测试：
+![image](https://user-images.githubusercontent.com/26688391/134877578-e25989da-e659-4e36-b5d0-c322236dfb1a.png)
+
+注册登录后就能看到私有信息
+![image](https://user-images.githubusercontent.com/26688391/134877977-55d0433f-5b8b-4926-83d5-95f34b9dec16.png)
 
