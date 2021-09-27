@@ -1,5 +1,5 @@
 
-这个是lab03.md的实操
+这是lab03.md的实操
 
 cloudformation部署完成：
 ![image](https://user-images.githubusercontent.com/26688391/134896543-b144dc12-6639-40a7-af82-a6d685394327.png)
