@@ -28,6 +28,7 @@ sql注入攻击测试，下边结果说明已经被上边配置的waf阻挡住�
 WAF允许你创建自己的规则(create your own rules)来处理请求。这可以为您的应用增加与应用相关的逻辑。关于定制规则，本部分将介绍请求采样（request sampling） 和Web ACL容量单元(Web ACL Capacity Units).
 
 自定义规则实验：
+
 ![image](https://user-images.githubusercontent.com/26688391/134900966-945bf3c3-a7e8-4b08-ad2b-d48c32b2debe.png)
 ![image](https://user-images.githubusercontent.com/26688391/134901038-4db13add-61a6-4da2-8ce4-ee906ef5de19.png)
 可以看到特定的请求被阻断了
