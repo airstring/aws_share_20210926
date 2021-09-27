@@ -31,7 +31,9 @@ WAF允许你创建自己的规则(create your own rules)来处理请求。这可
 
 ![image](https://user-images.githubusercontent.com/26688391/134900966-945bf3c3-a7e8-4b08-ad2b-d48c32b2debe.png)
 ![image](https://user-images.githubusercontent.com/26688391/134901038-4db13add-61a6-4da2-8ce4-ee906ef5de19.png)
+
 可以看到特定的请求被阻断了
+
 ![image](https://user-images.githubusercontent.com/26688391/134901661-f2847a2c-944f-444d-9e34-318adb66ae26.png)
 
 
