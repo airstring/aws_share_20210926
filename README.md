@@ -8,15 +8,16 @@
 lab02
 CloudFormation创建后的输出如下：
 ![image](https://user-images.githubusercontent.com/26688391/134867502-546f00a9-b8c6-4b4c-937a-436c71170295.png)
-第一四行与cdn CloudFront有关系
-第二三行与Cognito有关系
-第五行是个私有s3
-第六行是个公有s3
+第一四行与cdn CloudFront有关系。
+第二三行与Cognito有关系。
+第五行是个私有s3。
+第六行是个公有s3。
 
-
-![image](https://user-images.githubusercontent.com/26688391/134868784-a5d3d941-aaf8-44bc-a489-9bca7c36eb74.png)
 查看创建出的cloudfront
 ![image](https://user-images.githubusercontent.com/26688391/134874915-10fc2eb2-ea61-420a-aaf0-500441878165.png)
+
+![image](https://user-images.githubusercontent.com/26688391/134868784-a5d3d941-aaf8-44bc-a489-9bca7c36eb74.png)
+
 ![image](https://user-images.githubusercontent.com/26688391/134874990-f811ee90-9b01-47f8-ac58-21814af3ef63.png)
 
 
